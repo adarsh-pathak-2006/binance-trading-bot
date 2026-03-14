@@ -86,7 +86,7 @@ API key and secret
 
 Setup Instructions
 1. Clone the Repository
-git clone https://github.com/yourusername/binance-trading-bot.git
+git clone https://github.com/adarsh-pathak-2006/binance-trading-bot.git
 cd binance-trading-bot
 2. Create Virtual Environment (Recommended)
 python -m venv venv
