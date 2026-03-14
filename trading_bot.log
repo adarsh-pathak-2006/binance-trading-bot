@@ -1,0 +1,69 @@
+2026-03-14 03:55:45,770 - bot.logging_config - INFO - Input validated: Symbol=BTCUSDT, Side=SELL, Type=LIMIT, Qty=0.001, Price=25000.0
+2026-03-14 03:55:46,129 - bot.logging_config - INFO - Client initialized for Binance Futures Testnet.
+2026-03-14 03:55:46,129 - bot.logging_config - INFO - Attempting to place LIMIT order for BTCUSDT...
+2026-03-14 03:55:46,129 - bot.logging_config - INFO - Sending API Request: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'quantity': 0.001, 'timeInForce': 'GTC', 'price': 25000.0}
+2026-03-14 03:55:46,834 - bot.logging_config - ERROR - Binance API Error: 401 - Invalid API-key, IP, or permissions for action
+2026-03-14 03:56:17,264 - bot.logging_config - INFO - Input validated: Symbol=BTCUSDT, Side=SELL, Type=LIMIT, Qty=0.001, Price=25000.0
+2026-03-14 03:56:17,711 - bot.logging_config - INFO - Client initialized for Binance Futures Testnet.
+2026-03-14 03:56:17,711 - bot.logging_config - INFO - Attempting to place LIMIT order for BTCUSDT...
+2026-03-14 03:56:17,711 - bot.logging_config - INFO - Sending API Request: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'quantity': 0.001, 'timeInForce': 'GTC', 'price': 25000.0}
+2026-03-14 03:56:18,032 - bot.logging_config - ERROR - Binance API Error: 401 - Invalid API-key, IP, or permissions for action
+2026-03-14 04:27:52,370 - bot.logging_config - INFO - Input validated: Symbol=BTCUSDT, Side=SELL, Type=LIMIT, Qty=0.001, Price=25000.0
+2026-03-14 04:27:52,778 - bot.logging_config - INFO - Client initialized for Binance Futures Testnet.
+2026-03-14 04:27:52,778 - bot.logging_config - INFO - Attempting to place LIMIT order for BTCUSDT...
+2026-03-14 04:27:52,778 - bot.logging_config - INFO - Sending API Request: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'quantity': 0.001, 'timeInForce': 'GTC', 'price': 25000.0}
+2026-03-14 04:27:53,434 - bot.logging_config - ERROR - Binance API Error: 401 - Invalid API-key, IP, or permissions for action
+2026-03-14 04:30:30,519 - bot.logging_config - INFO - Input validated: Symbol=BTCUSDT, Side=SELL, Type=LIMIT, Qty=0.001, Price=25000.0
+2026-03-14 04:30:30,857 - bot.logging_config - INFO - Client initialized for Binance Futures Testnet.
+2026-03-14 04:30:30,857 - bot.logging_config - INFO - Attempting to place LIMIT order for BTCUSDT...
+2026-03-14 04:30:30,857 - bot.logging_config - INFO - Sending API Request: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'quantity': 0.001, 'timeInForce': 'GTC', 'price': 25000.0}
+2026-03-14 04:30:31,648 - bot.logging_config - ERROR - Binance API Error: 401 - Invalid API-key, IP, or permissions for action
+2026-03-14 05:06:52,094 - bot.logging_config - INFO - Input validated: Symbol=BTCUSDT, Side=SELL, Type=LIMIT, Qty=0.001, Price=25000.0
+2026-03-14 05:06:52,541 - bot.logging_config - INFO - Client initialized for Binance Futures Testnet.
+2026-03-14 05:06:52,541 - bot.logging_config - INFO - Attempting to place LIMIT order for BTCUSDT...
+2026-03-14 05:06:52,541 - bot.logging_config - INFO - Sending API Request: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'quantity': 0.001, 'timeInForce': 'GTC', 'price': 25000.0}
+2026-03-14 05:06:53,393 - bot.logging_config - ERROR - Binance API Error: 400 - Limit price can't be lower than 67348.57.
+2026-03-14 05:08:25,804 - bot.logging_config - INFO - Input validated: Symbol=BTCUSDT, Side=SELL, Type=LIMIT, Qty=0.001, Price=68000.0
+2026-03-14 05:08:26,296 - bot.logging_config - INFO - Client initialized for Binance Futures Testnet.
+2026-03-14 05:08:26,296 - bot.logging_config - INFO - Attempting to place LIMIT order for BTCUSDT...
+2026-03-14 05:08:26,296 - bot.logging_config - INFO - Sending API Request: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'quantity': 0.001, 'timeInForce': 'GTC', 'price': 68000.0}
+2026-03-14 05:08:26,836 - bot.logging_config - ERROR - Binance API Error: 400 - Order's notional must be no smaller than 100 (unless you choose reduce only).
+2026-03-14 05:10:18,590 - bot.logging_config - INFO - Input validated: Symbol=BTCUSDT, Side=SELL, Type=LIMIT, Qty=0.002, Price=68000.0
+2026-03-14 05:10:19,119 - bot.logging_config - INFO - Client initialized for Binance Futures Testnet.
+2026-03-14 05:10:19,119 - bot.logging_config - INFO - Attempting to place LIMIT order for BTCUSDT...
+2026-03-14 05:10:19,119 - bot.logging_config - INFO - Sending API Request: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'quantity': 0.002, 'timeInForce': 'GTC', 'price': 68000.0}
+2026-03-14 05:10:19,837 - bot.logging_config - INFO - API Response: {'orderId': 12797758558, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJbcd093a07083c1e993f28b', 'price': '68000.00', 'avgPrice': '0.00', 'origQty': '0.002', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1773445219507}
+2026-03-14 05:11:16,508 - bot.logging_config - INFO - Input validated: Symbol=BTCUSDT, Side=BUY, Type=MARKET, Qty=0.002, Price=None
+2026-03-14 05:11:16,901 - bot.logging_config - INFO - Client initialized for Binance Futures Testnet.
+2026-03-14 05:11:16,901 - bot.logging_config - INFO - Attempting to place MARKET order for BTCUSDT...
+2026-03-14 05:11:16,903 - bot.logging_config - INFO - Sending API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.002}
+2026-03-14 05:11:17,383 - bot.logging_config - INFO - API Response: {'orderId': 12797772142, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ53e80df4e78a1fef3dd311', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.002', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1773445277011}
+2026-03-14 05:18:26,841 - bot.logging_config - INFO - Input validated: Symbol=BTCUSDT, Side=SELL, Type=STOP_LIMIT, Qty=0.002, Price=65000.0
+2026-03-14 05:18:27,241 - bot.logging_config - INFO - Client initialized for Binance Futures Testnet.
+2026-03-14 05:18:27,249 - bot.logging_config - INFO - Placing STOP_LIMIT order. Stop: 65500.0, Limit: 65000.0
+2026-03-14 05:18:27,249 - bot.logging_config - INFO - Attempting to place STOP order for BTCUSDT...
+2026-03-14 05:18:27,249 - bot.logging_config - INFO - Sending API Request: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'STOP', 'quantity': 0.002}
+2026-03-14 05:18:27,866 - bot.logging_config - ERROR - Binance API Error: 400 - Mandatory parameter 'triggerprice' was not sent, was empty/null, or malformed.
+2026-03-14 05:19:26,523 - bot.logging_config - INFO - Input validated: Symbol=BTCUSDT, Side=SELL, Type=STOP_LIMIT, Qty=0.002, Price=65000.0
+2026-03-14 05:19:27,000 - bot.logging_config - INFO - Client initialized for Binance Futures Testnet.
+2026-03-14 05:19:27,000 - bot.logging_config - INFO - Placing STOP_LIMIT order. Stop: 65500.0, Limit: 65000.0
+2026-03-14 05:19:27,000 - bot.logging_config - INFO - Attempting to place STOP order for BTCUSDT...
+2026-03-14 05:19:27,000 - bot.logging_config - INFO - Sending API Request: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'STOP', 'quantity': 0.002}
+2026-03-14 05:19:27,345 - bot.logging_config - ERROR - Binance API Error: 400 - Mandatory parameter 'triggerprice' was not sent, was empty/null, or malformed.
+2026-03-14 05:20:43,451 - bot.logging_config - INFO - Input validated: Symbol=BTCUSDT, Side=BUY, Type=MARKET, Qty=0.002, Price=None
+2026-03-14 05:20:43,944 - bot.logging_config - INFO - Client initialized for Binance Futures Testnet.
+2026-03-14 05:20:43,944 - bot.logging_config - INFO - Attempting to place MARKET order for BTCUSDT...
+2026-03-14 05:20:43,944 - bot.logging_config - INFO - Sending API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.002}
+2026-03-14 05:20:44,466 - bot.logging_config - INFO - API Response: {'orderId': 12797908268, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ78dc0b92848f08ca209ed0', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.002', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1773445844155}
+2026-03-14 05:20:50,022 - bot.logging_config - INFO - Input validated: Symbol=BTCUSDT, Side=SELL, Type=STOP_LIMIT, Qty=0.002, Price=65000.0
+2026-03-14 05:20:50,443 - bot.logging_config - INFO - Client initialized for Binance Futures Testnet.
+2026-03-14 05:20:50,443 - bot.logging_config - INFO - Placing STOP_LIMIT order. Stop: 65500.0, Limit: 65000.0
+2026-03-14 05:20:50,443 - bot.logging_config - INFO - Attempting to place STOP order for BTCUSDT...
+2026-03-14 05:20:50,443 - bot.logging_config - INFO - Sending API Request: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'STOP', 'quantity': 0.002, 'timeInForce': 'GTC', 'price': 65000.0, 'stopPrice': 65500.0}
+2026-03-14 05:20:50,917 - bot.logging_config - INFO - API Response: {'algoId': 1000000024787365, 'clientAlgoId': 'x-Cb7ytekJ36e2fdc0b075126cde90c9', 'algoType': 'CONDITIONAL', 'orderType': 'STOP', 'symbol': 'BTCUSDT', 'side': 'SELL', 'positionSide': 'BOTH', 'timeInForce': 'GTC', 'quantity': '0.002', 'algoStatus': 'NEW', 'triggerPrice': '65500.00', 'price': '65000.00', 'icebergQuantity': None, 'selfTradePreventionMode': 'EXPIRE_MAKER', 'workingType': 'CONTRACT_PRICE', 'priceMatch': 'NONE', 'closePosition': False, 'priceProtect': False, 'reduceOnly': False, 'createTime': 1773445850520, 'updateTime': 1773445850520, 'triggerTime': 0, 'goodTillDate': 0}
+2026-03-14 05:23:32,184 - bot.logging_config - INFO - Input validated: Symbol=BTCUSDT, Side=SELL, Type=STOP_LIMIT, Qty=0.002, Price=65000.0
+2026-03-14 05:23:32,728 - bot.logging_config - INFO - Client initialized for Binance Futures Testnet.
+2026-03-14 05:23:32,731 - bot.logging_config - INFO - Placing STOP_LIMIT order. Stop: 65500.0, Limit: 65000.0
+2026-03-14 05:23:32,731 - bot.logging_config - INFO - Attempting to place STOP order for BTCUSDT...
+2026-03-14 05:23:32,731 - bot.logging_config - INFO - Sending API Request: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'STOP', 'quantity': 0.002, 'timeInForce': 'GTC', 'price': 65000.0, 'stopPrice': 65500.0}
+2026-03-14 05:23:33,366 - bot.logging_config - INFO - API Response: {'algoId': 1000000024788722, 'clientAlgoId': 'x-Cb7ytekJc9888c6497414f1bdf5387', 'algoType': 'CONDITIONAL', 'orderType': 'STOP', 'symbol': 'BTCUSDT', 'side': 'SELL', 'positionSide': 'BOTH', 'timeInForce': 'GTC', 'quantity': '0.002', 'algoStatus': 'NEW', 'triggerPrice': '65500.00', 'price': '65000.00', 'icebergQuantity': None, 'selfTradePreventionMode': 'EXPIRE_MAKER', 'workingType': 'CONTRACT_PRICE', 'priceMatch': 'NONE', 'closePosition': False, 'priceProtect': False, 'reduceOnly': False, 'createTime': 1773446013077, 'updateTime': 1773446013078, 'triggerTime': 0, 'goodTillDate': 0}
